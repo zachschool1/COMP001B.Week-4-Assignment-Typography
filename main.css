@@ -35,8 +35,9 @@ i dont know what to do with code or where it is
 */
 
 h1, h2, h3 {
-font-style:bolder;
+font-weight:bolder;
 text-align: center;
+padding-top:.5rem;
 }
 
 h1 {
